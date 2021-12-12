@@ -13,15 +13,20 @@ References
 [1] I. Aganj, A. Bartesaghi, M. Borgnia, H.Y. Liao, G. Sapiro, and S. Subramaniam. Regularization
 for inverting the radon transform with wedge consideration. In 2007 4th IEEE International
 Symposium on Biomedical Imaging: From Nano to Macro, pages 217–220, 2007.
+
 [2] Amir Averbuch, Ilya Sedelnikov, and Yoel Shkolnisky. Ct reconstruction from parallel and
 fan-beam projections by a 2-d discrete radon transform. IEEE Transactions on Image Processing,
 21(2):733–741, 2012.
+
 [3] Jessica M Fagerstrom. Computed tomography, sinograms, and image reconstruction in the
 classroom. Physics Education, 55(3):034001, 2020.
+
 [4] Johann Radon. On the determination of functions from their integral values along certain
 manifolds. IEEE transactions on medical imaging, 5(4):170–176, 1986.
+
 [5] Wei Wang, Xiang-Gen Xia, Chuanjiang He, Zemin Ren, Jian Lu, Tianfu Wang, and Baiying Lei.
 An end-to-end deep network for reconstructing ct images directly from sparse sinograms. IEEE
 Transactions on Computational Imaging, 6:1548–1560, 2020.
+
 [6] M. J. Willemink and P. B. Noël. The evolution of image reconstruction for CT-from filtered back
 projection to artificial intelligence. Eur Radiol, 29(5):2185–2195, May 2019.
